@@ -10,6 +10,8 @@ import java.util.stream.Collectors;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        //Added here new changes
+
        // This is stat rt of programing
      // join() method
         List<Integer> numbers = Arrays.asList(1, 3, 4, 5, 6, 6, 7, 2);
